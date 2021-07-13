@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ec92d6a-7fa5-476a-b673-134b2570e509" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1uylk1gdyrDFQtpMAhhj168yylx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DelusionRedis-Consumer/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DelusionRedis\DelusionRedis-Consumer\src\main\resources" />
+      <recent name="E:\DelusionRedis\DelusionRedis-Product\src\main\resources" />
+      <recent name="E:\DelusionRedis\DelusionRedis-Product\src\main\java\cn\htl\delusionredisproduct" />
+      <recent name="E:\DelusionRedis\DelusionRedis-Consumer\src\main\java\cn\htl\delusionredisconsumer\consumer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DelusionRedisConsumerApplication">
+    <configuration name="DelusionRedisConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="DelusionRedis-Consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.htl.delusionredisconsumer.DelusionRedisConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DelusionRedisProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="DelusionRedis-Product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.htl.delusionredisproduct.DelusionRedisProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ec92d6a-7fa5-476a-b673-134b2570e509" name="Default Changelist" comment="" />
+      <created>1625645848624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625645848624</updated>
+      <workItem from="1625645849692" duration="136000" />
+      <workItem from="1625645989722" duration="2105000" />
+      <workItem from="1625707640096" duration="604000" />
+      <workItem from="1625737582525" duration="1065000" />
+      <workItem from="1625795454662" duration="1589000" />
+      <workItem from="1625812471820" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

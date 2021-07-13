@@ -1,0 +1,12 @@
+server:
+  port: 8091
+
+spring:
+  application:
+    name: DelusionRedis
+
+  rabbitmq:
+    host: 192.168.0.129
+    port: 5672
+    username: superadmin
+    password: 200530
